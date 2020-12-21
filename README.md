@@ -1,0 +1,2 @@
+# sizeboxBodySetFile
+sizeboxBodySetFile sizebox的保存的用户模型骨架数据文件 json
